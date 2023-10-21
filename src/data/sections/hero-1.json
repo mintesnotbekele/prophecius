@@ -1,0 +1,12 @@
+{
+    "title": "Prophecius  Technologies...<br>  <span class=\"mil-thin\">Your Partner in Digital </span><span class=\"mil-thin\">Transformation....</span>",
+    "description": "We are the architects of digital transformation, crafting stunning websites, cuttingedge apps, and powerful digital marketing campaigns.",
+    "button1": {
+        "link": "/services",
+        "label": "What we do"
+    },
+    "button2": {
+        "link": "/projects-3",
+        "label": "View works"
+    }
+}

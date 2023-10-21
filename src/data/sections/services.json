@@ -1,0 +1,31 @@
+{
+    "title1": "<span class=\"mil-thin\">We Don't Just  </span>Dream....",
+    "title2": "<span class=\"mil-thin\">We Deliver </span>Excellence....",
+    "subtitle": "Unlock limitless possibilities with Prophecius <br/>Technologies – your digital transformation partner.",
+    "button": {
+        "link": "/services",
+        "label": "What we do"
+    },
+    "items": [
+        {
+            "title": "Web Development<br>",
+            "text": "Powering up Business Worldwide",
+            "link": "/services/service-1"
+        },
+        {
+            "title": "App Development ",
+            "text": "Delivering Native, Hybrid Apps & PWA's",
+            "link": "/services/service-2"
+        },
+        {
+            "title": "Digital Marketing",
+            "text": "Take your Marketing game to next Level with us",
+            "link": "/services/service-3"
+        },
+        {
+            "title": "Branding",
+            "text": "Explore Complete Brand Solutions for your Business with us",
+            "link": "/services/service-4"
+        }
+    ]
+}
