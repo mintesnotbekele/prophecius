@@ -3,22 +3,22 @@
     "subtitle": "Our Client’s Success <br>",
     "items": [
         {
-            "name": "Paul Trueman",
+            "name": "Saptarshee Mandal",
             "image": "/img/customers/1.jpg",
-            "role": "Eqanta app",
-            "text": "Working with Courtney Davis as our UI designer was an absolute pleasure. Her attention to detail and creative approach brought our vision to life. The user interface she designed exceeded our expectations, and we received positive feedback from our clients. Highly recommended!"
+            "role": "CEO",
+            "text": "The Eyespace startup needed more than a website; I needed a digital heartbeat. Prophecius Technologies didn't just build us a platform; they crafted an experience. Their tech prowess, from Laravel to Flutter, spoke volumes. We're not just client, we're partners in success. Here's to reaching new heights together! !"
         },
         {
-            "name": "Olivia Oldman",
+            "name": "Bicrrysta Team.",
             "image": "/img/customers/2.jpg",
-            "role": "Eqanta app",
-            "text": "I had the opportunity to collaborate with Courtney, and I must say she is incredibly talented. Her ability to understand our brand and translate it into a interface was impressive. Courtney's designs were intuitive, and enhanced the overall user experience. I look forward to working with her again!"
+            "role": "CEO",
+            "text": "Bicrrysta isn't just an app; it's our gasoline for the soul. In the symphony of biking, Prophecius Technologies orchestrated an experience, not just a platform. From the purr of our customized rides to the thunder of shared adventures, Bicrrysta is our tribe's anthem. With each twist and turn, our stories dance thanks to the creativity ignited by Prophecius. Riding, connecting, creating – Bicrrysta by Prophecius, where our tales of asphalt come alive!"
         },
         {
-            "name": "Oscar Newman",
+            "name": " Akshitha Roy",
             "image": "/img/customers/3.jpg",
-            "role": "Eqanta app",
-            "text": "Courtney Davis is an exceptional UI designer. She has a keen eye for aesthetics and understands how to create interfaces. Courtney's designs greatly improved the usability of our application, and we couldn't be happier with the results. Highly skilled and reliable!"
+            "role": " CEO - Curewantri",
+            "text": "Curewantri, powered by Prophecius Technologies, has truly transformed my healthcare experience. The app's seamless integration of doctor consultations, medicine orders, and laboratory services has made managing my health incredibly convenient. The flexibility for doctors to set their availability ensures timely consultations, while the inclusion of hospitals, pharmacies, and labs in one platform simplifies the entire process. It's a game-changer, and I'm grateful for the efficient and comprehensive healthcare solution it provides."
         }
     ]
 }

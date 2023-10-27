@@ -1,7 +1,7 @@
 {
     "settings": {
-        "siteName": "Ashley",
-        "formspreeURL": "https://formspree.io/f/your_api_key",
+        "siteName": "Prophecius Technologies | Web Development, App Development, Digital Marketing Experts",
+        "formspreeURL": "www.prophecius.com",
         "mailchimp": {
             "url": "",
             "key": ""
@@ -33,21 +33,9 @@
             },
             {
                 "label": "Portfolio",
-                "link": "/projects",
-                "children": [
-                    {
-                        "label": "Grid Type 1",
-                        "link": "/projects"
-                    },
-                    {
-                        "label": "Grid Type 2",
-                        "link": "/projects-2"
-                    },
-                    {
-                        "label": "Slider",
-                        "link": "/projects-3"
-                    }
-                ]
+                "link": "/projects-3",
+                "children": 0
+              
             },
             {
                 "label": "Services",
@@ -100,9 +88,9 @@
     },
     "footer": {
         "logo": {
-            "text": "Ashley."
+            "text": "Prophecius."
         },
-        "copy": "© 2023 Ashley. All Rights Reserved.",
+        "copy": "© 2023 Prophecius Technologies Pvt Ltd. All Rights Reserved.",
         "menu": [
             {
                 "label": "Home",

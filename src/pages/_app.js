@@ -17,6 +17,12 @@ function MyApp({ Component, pageProps }) {
           <title>{AppData.settings.siteName}</title>
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
           {/* seo end */}        
+          <meta charset="UTF-8"/>
+     
+          <meta name="keywords" content="HTML, CSS, JavaScript"/>
+          <meta name="author" content="Prophecius"/>
+       
+          <meta name="description" content="Elevate your online presence with Prophecius Technologies. We specialize in web development, app development, and digital marketing services."/>
       </Head>
       <Component {...pageProps} />
     </>

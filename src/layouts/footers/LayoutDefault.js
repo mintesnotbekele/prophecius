@@ -61,21 +61,24 @@ const DefaultFooter = ( { extraClass } ) => {
                     <div className="col-md-7 col-lg-6">
 
                         <div className="row justify-content-between">
+                        <div className="col-lg-6 mil-mb-60">
 
-                            <div className="col-md-6 col-lg-5 mil-mb-60">
+<h6 className="mil-muted mil-mb-30">International</h6>
 
-                                <h6 className="mil-muted mil-up mil-mb-30">Canada</h6>
+<p className="mil-light-soft">A47 - 402, Singapore Township<br/> East Mindspace,<br/>
+Hyderabad.<span className="mil-no-wrap"><br/>+1 424 216 6070</span></p>
 
-                                <p className="mil-light-soft mil-up">71 South Los Carneros Road, California <span className="mil-no-wrap">+51 174 705 812</span></p>
+</div>
+                        <div className="col-lg-6 mil-mb-60">
+                                
+                                <h6 className="mil-muted mil-mb-30">Domestic</h6>
 
-                            </div>
-                            <div className="col-md-6 col-lg-5 mil-mb-60">
+                                <p className="mil-light-soft">Prophecius Technologies Pvt Ltd, 
+                                Near Anuradha Ployclinic Road, 
+                                Pantakaluva Road, Vijayawada.<span className="mil-no-wrap"><br/>+91 9390132330</span></p>
 
-                                <h6 className="mil-muted mil-up mil-mb-30">Germany</h6>
-
-                                <p className="mil-light-soft mil-up">Leehove 40, 2678 MC De Lier, Netherlands <span className="mil-no-wrap">+31 174 705 811</span></p>
-
-                            </div>
+                                </div>
+                               
                         </div>
 
                     </div>

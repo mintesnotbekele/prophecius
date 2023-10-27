@@ -122,7 +122,7 @@ const DefaultHeader = ({ extraClass }) => {
                               <div className="mil-divider mil-mb-60"></div>
                               <div className="row justify-content-between">
 
-                                  <div className="col-lg-4 mil-mb-60">
+                                  <div className="col-lg-6 mil-mb-60">
 
                                       <h6 className="mil-muted mil-mb-30">International</h6>
 
@@ -130,8 +130,8 @@ const DefaultHeader = ({ extraClass }) => {
 Hyderabad.<span className="mil-no-wrap"><br/>+1 424 216 6070</span></p>
 
                                   </div>
-                                  <div className="col-lg-4 mil-mb-60">
-
+                                  <div className="col-lg-6 mil-mb-60">
+ 
                                       <h6 className="mil-muted mil-mb-30">Domestic</h6>
 
                                       <p className="mil-light-soft">Prophecius Technologies Pvt Ltd, 
